@@ -1,0 +1,20 @@
+
+.photo img {
+    height: 145px;
+    width: 150px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+
+.profile {
+    display: flex;
+}
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.program p{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
